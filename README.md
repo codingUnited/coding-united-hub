@@ -27,7 +27,7 @@ Ready to jump in? Here's how:
     * 🐳 **[Docker Project Template](https://github.com/codingUnited/docker-template)**: Learn to containerize applications. Perfect for understanding modern deployment practices.
 
 2.  **Join Our Community Channels:**
-    * **Discord:** [**Join the Coding United Discord Server!**](https://discord.gg/n8xYkS46MG)
+    * **Discord:** [**Join the Coding United Discord Server!**](https://discord.gg/YyntRSs8JA)
     * **Inscribe:** [Coding United](https://inscribe.education/main/snhu/6754110229506861/coding-united/all-content)
 
 3.  **How to Officially Join:**
