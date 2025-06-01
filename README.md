@@ -36,7 +36,7 @@ Ready to jump in? Here's how:
 
 4.  **Check Out Upcoming Events & Workshops:**
     * Announcements will be made on our [**Discord Server**](https://discord.gg/n8xYkS46MG) and our [**Club Website**](https://coding-united-commons.pages.dev/).
-    * [Link to a specific Events Page on your website if you have one - **REMOVE OR REPLACE OR DELETE**]
+    * First project website guide [**Project Guide**](https://club-project-guide.pages.dev/).
 
 ---
 
